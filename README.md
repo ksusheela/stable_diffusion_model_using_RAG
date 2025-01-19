@@ -36,7 +36,7 @@ Programming Languages: Python
 
 Libraries: PyTorch, Hugging Face Diffusers, Streamlit, Transformers, OpenCV, Matplotlib
 
-Model: Stable Diffusion
+Model: Stable Diffusion, stabilityai/stable-diffusion-2-1, CompVis/stable-diffusion
 
 Tools: CUDA for GPU acceleration, PIL for image processing
 
